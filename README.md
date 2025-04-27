@@ -1,1 +1,3 @@
 # ecommerce-website
+1. CREATE FOLDER FONT-END 
+2. CREATE FOLDER BACK-END
